@@ -55,10 +55,11 @@ Tabs.Main:AddButton({
 
 local games = {
     {Name = "Grow a Garden", Url = "https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/growagarden"},
+    {Name = "Fish It", Url = "https://raw.githubusercontent.com/DRK070/TsuoFishIt/refs/heads/main/TsuoFishIt.lua"},
     {Name = "99 Nights", Url = "https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/Tsuohub99nights"},
     {Name = "Hunty Zombie", Url = "https://raw.githubusercontent.com/DRK070/TsuoHubZombie/refs/heads/main/TsuoHuntyZombie.lua"},
     {Name = "Forsaken", Url = "https://raw.githubusercontent.com/DRK070/TsuoHubForsaken/refs/heads/main/TsuoForsaken.lua"},
-    {Name = "Blox Fruits", Url = "https://raw.githubusercontent.com/Overgustx2/TsuoLoader/refs/heads/main/Tsuo.lua"},
+    {Name = "Blox Fruits", Url = "https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/Tsuoscripts"},
     {Name = "King Legacy", Url = "https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy"},
 }
 
